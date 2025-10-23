@@ -1,0 +1,73 @@
+Jul 20 14:42:55 Budiman-C systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Jul 20 14:42:55 Budiman-C sshd[1673]: Server listening on :: port 22.
+Jul 20 14:42:55 Budiman-C systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+Jul 20 14:49:54 Budiman-C systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Jul 20 14:49:54 Budiman-C sshd[214]: Server listening on :: port 22.
+Jul 20 14:49:54 Budiman-C systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+Jul 20 14:50:06 Budiman-C sshd[214]: Received signal 15; terminating.
+Jul 20 14:50:06 Budiman-C systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+Jul 20 14:50:06 Budiman-C systemd[1]: ssh.service: Deactivated successfully.
+Jul 20 14:50:06 Budiman-C systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+-- Boot fbf01542a0f940d88c9ec40e9dd81754 --
+Jul 20 20:58:00 Budiman-C systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Jul 20 20:58:00 Budiman-C sshd[213]: Server listening on :: port 22.
+Jul 20 20:58:00 Budiman-C systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+-- Boot 8f18d866c925496396dd280114f39d82 --
+Jul 21 08:59:31 Budiman-C systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Jul 21 08:59:31 Budiman-C sshd[189]: Server listening on :: port 22.
+Jul 21 08:59:31 Budiman-C systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:36:58 Budiman-C sshd[5326]: Accepted password for dicoding from 127.0.0.1 port 51960 ssh2
+Jul 21 13:36:58 Budiman-C sshd[5326]: pam_unix(sshd:session): session opened for user dicoding(uid=1003) by dicoding(uid=0)
+Jul 21 13:41:11 Budiman-C sshd[5546]: Connection closed by 127.0.0.1 port 54460 [preauth]
+Jul 21 13:42:08 Budiman-C sshd[5576]: Connection closed by authenticating user dicoding 127.0.0.1 port 58130 [preauth]
+Jul 21 13:42:08 Budiman-C sshd[5587]: Connection closed by authenticating user dicoding 127.0.0.1 port 51036 [preauth]
+Jul 21 13:42:13 Budiman-C sshd[5599]: Accepted password for dicoding from 127.0.0.1 port 51042 ssh2
+Jul 21 13:42:13 Budiman-C sshd[5599]: pam_unix(sshd:session): session opened for user dicoding(uid=1003) by dicoding(uid=0)
+Jul 21 13:42:14 Budiman-C sshd[5599]: pam_unix(sshd:session): session closed for user dicoding
+Jul 21 13:44:11 Budiman-C systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:44:11 Budiman-C sshd[189]: Received signal 15; terminating.
+Jul 21 13:44:11 Budiman-C systemd[1]: ssh.service: Deactivated successfully.
+Jul 21 13:44:11 Budiman-C systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:44:11 Budiman-C systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:44:11 Budiman-C sshd[5674]: Server listening on :: port 22.
+Jul 21 13:44:11 Budiman-C systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:44:56 Budiman-C systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:44:56 Budiman-C sshd[5674]: Received signal 15; terminating.
+Jul 21 13:44:56 Budiman-C systemd[1]: ssh.service: Deactivated successfully.
+Jul 21 13:44:56 Budiman-C systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:44:56 Budiman-C systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:44:56 Budiman-C sshd[5683]: Server listening on :: port 22.
+Jul 21 13:44:56 Budiman-C systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:45:53 Budiman-C sshd[5683]: Received signal 15; terminating.
+Jul 21 13:45:53 Budiman-C systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:45:53 Budiman-C systemd[1]: ssh.service: Deactivated successfully.
+Jul 21 13:45:53 Budiman-C systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:45:53 Budiman-C systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:45:53 Budiman-C sshd[5704]: Server listening on :: port 22.
+Jul 21 13:45:53 Budiman-C systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:47:30 Budiman-C systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:47:30 Budiman-C sshd[5704]: Received signal 15; terminating.
+Jul 21 13:47:30 Budiman-C systemd[1]: ssh.service: Deactivated successfully.
+Jul 21 13:47:30 Budiman-C systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:47:30 Budiman-C systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:47:30 Budiman-C sshd[5740]: Server listening on :: port 22.
+Jul 21 13:47:30 Budiman-C systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:49:54 Budiman-C sshd[5740]: Received signal 15; terminating.
+Jul 21 13:49:54 Budiman-C systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:49:54 Budiman-C systemd[1]: ssh.service: Deactivated successfully.
+Jul 21 13:49:54 Budiman-C systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:50:15 Budiman-C systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:50:15 Budiman-C sshd[5816]: Server listening on 0.0.0.0 port 2000.
+Jul 21 13:50:15 Budiman-C sshd[5816]: Server listening on :: port 2000.
+Jul 21 13:50:15 Budiman-C systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:52:20 Budiman-C systemd[1]: Stopping ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:52:20 Budiman-C sshd[5816]: Received signal 15; terminating.
+Jul 21 13:52:20 Budiman-C systemd[1]: ssh.service: Deactivated successfully.
+Jul 21 13:52:20 Budiman-C systemd[1]: Stopped ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:52:20 Budiman-C systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+Jul 21 13:52:20 Budiman-C sshd[5848]: Server listening on 0.0.0.0 port 2000.
+Jul 21 13:52:20 Budiman-C sshd[5848]: Server listening on :: port 2000.
+Jul 21 13:52:20 Budiman-C systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+Jul 21 13:52:32 Budiman-C sshd[5851]: Connection closed by authenticating user dicoding 127.0.0.1 port 52344 [preauth]
+Jul 21 13:54:52 Budiman-C sshd[5892]: Accepted publickey for dicoding from 127.0.0.1 port 56956 ssh2: RSA SHA256:zG118u6LB/QylESwJglXJwMdBIRZPfHr5QdexnXpfaE
+Jul 21 13:54:52 Budiman-C sshd[5892]: pam_unix(sshd:session): session opened for user dicoding(uid=1003) by dicoding(uid=0)
