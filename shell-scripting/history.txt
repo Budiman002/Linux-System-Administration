@@ -1,0 +1,6 @@
+   1  mkdir submission1
+   2  cd submission1
+   3  nano script.sh
+   4  chmod +x script.sh
+   5  ./script.sh
+   6  history > history.txt
